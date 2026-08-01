@@ -1,21 +1,21 @@
-#👷🏽‍♂️ GYC CONSTRUCTOR
+# 👷🏽‍♂️ GYC CONSTRUCTOR
 > Sistema para la gestión y administración de proyectos de construcción
 ---
 
-##📋 Descripción
+## 📋 Descripción
 **GYC Constructor** nace a  partir de la creatividad de 4 integrantes creativos y comprometidos que actualmente son estudiantes de ADSO, su objetivo con este proyecto es buscar la optimización a gestión de proyectos de construcción mediante el control de obras, materiales, personal, cronogramas y documentación en un solo lugar. 
 Contamos con la gran fortuna de aplicar la metodología **Scrum** para sacar nuestro proyecto de la mejor manera y ser muy efectivos con nuestro sistema.
 ---
 
-##🎯 Objetivo General
+## 🎯 Objetivo General
 Desarrollar un sistema que permita mejorar la administración de proyectos de construcción, optimizando el seguimiento de actividades y facilitando la toma de decisiones.
 ----
 
 ## 👩🏽‍🎓🧑‍🎓👩🏻‍🎓👨🏻‍🎓 Grupo de Trabajo
-Kevin S. Morris
-Julián Galvis
-Laura Rubiano Portilla
-Anyi Lorena Hernández
+- Kevin S. Morris
+- Julián Galvis
+- Laura Rubiano Portilla
+- Anyi Lorena Hernández
 ---
 
 ## 📄Documentación 
