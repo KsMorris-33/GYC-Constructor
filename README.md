@@ -1,3 +1,11 @@
+<p align="center">
+ <img src="Imagenes/LOGO.jpeg"
+alt="Logo GYC Constructor"
+width="1000">
+</p>
+
+
+
 # 👷🏽‍♂️ GYC CONSTRUCTOR
 > Sistema para la gestión y administración de proyectos de construcción
 ---
