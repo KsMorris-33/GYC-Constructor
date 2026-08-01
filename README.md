@@ -4,7 +4,7 @@
 
 ## 📋 Descripción
 
-**GYC Constructor** nace a  partir de la creatividad de 4 integrantes ingenioso y comprometidos que actualmente 
+**GYC Constructor** nace a  partir de la creatividad de 4 integrantes ingeniosos y comprometidos que actualmente 
 son estudiantes de ADSO, su objetivo es buscar la optimización de la gestión de proyectos 
 de construcción mediante el control de obras, materiales, personal, cronogramas y documentación en una sola plataforma
 aplicando además la metodología **Scrum** para tener un sistema muy efectivo. 
