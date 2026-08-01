@@ -4,8 +4,11 @@
 
 ## 📋 Descripción
 
-**GYC Constructor** nace a  partir de la creatividad de 4 integrantes comprometidos que actualmente son estudiantes de ADSO, su objetivo con este proyecto es buscar la optimización de gestión de proyectos de construcción mediante el control de obras, materiales, personal, cronogramas y documentación en un solo lugar. 
-Contamos con la gran fortuna de aplicar la metodología **Scrum** para sacar nuestro proyecto de la mejor manera y ser muy efectivos con nuestro sistema.
+**GYC Constructor** nace a  partir de la creatividad de 4 integrantes comprometidos que actualmente 
+son estudiantes de ADSO, su objetivo con este proyecto es buscar la optimización de gestión de proyectos 
+de construcción mediante el control de obras, materiales, personal, cronogramas y documentación en un solo lugar. 
+Contamos con la gran fortuna de aplicar la metodología **Scrum** para sacar nuestro proyecto de la mejor 
+manera y ser muy efectivos con nuestro sistema.
 Cabe resaltar que este proyecto es académico, y ademas guiado y asesorad por la Instructora **Maria del Pilar Moreno**
 
 ---
