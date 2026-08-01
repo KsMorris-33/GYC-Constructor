@@ -36,7 +36,7 @@ Desarrollar un sistema que permita mejorar la administración de proyectos de co
 ---
 
 ## 📄Documentación 
-Nos regimos por medio de la Norma IEEE 830 y al momento contamos con la matriz de trazabilidad donde se definieron los Requisitos Funcionales (RF) y los Requisitos No Funcionales (RNF) dividiéndolos en 7 módulos principales.
+Nos regimos por medio de la Norma IEEE 830 y al momento contamos con la matriz de trazabilidad donde se definieron los Requisitos Funcionales (RF) y los Requisitos No Funcionales (RNF) dividiéndolos en 7 módulos principales, también contamos con una propuesta de cronograma donde se especifica cada sprint, tiempo e historia de usuario.
 
 ---
 ## 📆 Estado del proyecto
