@@ -23,8 +23,8 @@ Desarrollar un sistema que permita mejorar la administración de proyectos de co
 - Julián Galvis
 - Laura Rubiano Portilla
 - Anyi Lorena Hernández
-  **Ficha 3466002** SENA (Servicio Nacional de Aprendizaje)
-  Tecnología en Análisis y Desarrollo de Software
+> **Ficha 3466002** SENA (Servicio Nacional de Aprendizaje)
+>Tecnología en Análisis y Desarrollo de Software
 ---
 
 ## 📄Documentación 
